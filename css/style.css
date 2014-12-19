@@ -331,7 +331,7 @@ textarea:-moz-placeholder {color: #545454;}
 .left-content {position: relative; display: inline-block; float: left; height: 100%; width: 50%;}
 .left-content img {float: none;  position: relative ; display: inline-block; height: 100%; width: 100%; margin:0; padding:0;}
 .right-content {height: 100%; width:50%; text-align: center; position: relative; display: inline-block;}
-.team-button2 {background-color: #5acdc4; text-align: center; width: 194px; height: 93px; position: relative; left: 0px; margin-top: 50px; float: left;}
+.team-button2 {background-color: #5acdc4; text-align: center; width: 240px; height: 93px; position: relative; left: 0px; margin-top: 50px; float: left;}
 .team-button2 b{text-transform: uppercase;}
 .right-content p {float: none; display: inline-block; position: relative; text-align: justify; margin: 35px 30px;}
 .right-content .team-icon {position: relative; display: inline-block; float: none; right:6px; bottom:0;}
