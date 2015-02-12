@@ -72,7 +72,7 @@ input[type="submit"] {position: relative; display: inline-block; float: none; ma
 
 /* 02 - HEADER */
 
-.navigation {height:93px;width:100%;background:none;position:fixed; z-index: 5000;}
+.navigation {top:0; height:93px;width:100%;background:none;position:fixed; z-index: 5000;}
 .scroll-menu {background: rgba(51,51,51,0.95); transition: all 0.3s ease-in 0.1s; -webkit-transition: all 0.3s ease-in 0.1s; -moz-transition: all 0.3s ease-in 0.1s;-o-transition: all 0.3s ease-in 0.1s;-ms-transition: all 0.3s ease-in 0.1s;}
 .logo {position:absolute; left:63px; top:23px; z-index: 6;}
 .logo a img{position:relative; float:left;}
