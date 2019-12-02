@@ -457,19 +457,11 @@
     marker = new google.maps.Marker({
       position: myLatlng,
       map: map,
-      icon: image
     });
 
     marker2 = new google.maps.Marker({
       position: myLatlng2,
-      map: map,
-      icon: image
-    });
-
-    marker3 = new google.maps.Marker({
-      position: myLatlng3,
-      map: map,
-      icon: image
+      map: map
     });
 
     google.maps.event.addListener(marker, 'click', function() {
